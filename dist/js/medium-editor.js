@@ -4787,7 +4787,7 @@ MediumEditor.extensions = {};
         contentDefault: '&#xB1;', // ±
         contentFA: '<i class="fa fa-font"></i>',
 
-        fonts: ['', 'Arial', 'Verdana', 'Times New Roman'],
+        fonts: ['Open Sans', 'Bree Serif', 'Roboto', 'Lobster'],
 
         init: function () {
             MediumEditor.extensions.form.prototype.init.apply(this, arguments);
